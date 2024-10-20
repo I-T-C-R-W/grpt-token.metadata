@@ -2,7 +2,7 @@
   "name": "Green or Goat Token",
   "symbol": "GRGT",
   "description": "The Green or Goat Token (GRGT) is a unique digital asset on the Solana blockchain. Be a Part of Green or Goat now.",
-  "image": "https://raw.githubusercontent.com/I-T-C-R-W/grpt-token.metadata/main/grgt_logo.webp",
+  "image": "https://raw.githubusercontent.com/I-T-C-R-W/grpt-token.metadata/main/grgt_logo.png",
   "external_url": "https://nocarbit.com/memecoin",
   "attributes": [
     {
@@ -13,7 +13,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/I-T-C-R-W/grpt-token.metadata/main/grgt_logo.webp",
+        "uri": "https://raw.githubusercontent.com/I-T-C-R-W/grpt-token.metadata/main/grgt_logo.png",
         "type": "image/png"
       }
     ]
